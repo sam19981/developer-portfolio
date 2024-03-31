@@ -41,9 +41,10 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
+        name: 'PartTimePro',
+        description: "∗ Created a user-friendly app integrated with Google Firebase, simplifying temporary job searches for users.\n"
+                     + "∗ Facilitated effortless job communication and applications with integrated chat and navigation features.",
+        tools: ['Kotlin', 'Firebase', 'Android Studio'],
         code: '',
         demo: '',
         image: ayla,
